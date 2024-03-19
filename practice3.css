@@ -1,0 +1,48 @@
+div{
+    height: 100px;
+    width: 200px;
+    background-color: orangered;
+    border-width: 5px;
+    border-style: double;
+    border-color: aqua;
+    text-align: center;
+}
+
+
+p{
+    height: 100px;
+    width: 300px;
+    background-color: orange;
+    border-width: 3px;
+    border-style: dotted;
+    border-color: blueviolet;
+    text-align: center;
+    /* padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px; */
+    /* padding: 3px 10px 5px 3px; */
+    padding: 30px;
+}
+
+button{
+    background-color: violet;
+    color: rgb(4, 32, 4);
+    height: 100px;
+    width: 100px;
+    border-style: groove;
+    margin: 10px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+h1{
+    height: 100px;
+    width: 150px;
+    background-color: red;
+    /*border-width: 3px;
+    border-style: double;
+    border-color: blueviolet;*/
+    border: 5px double olive;
+    text-align: start;
+}
